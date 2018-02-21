@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2018-02-20</Date>
+			<Time>13:11:19.3489132+05:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>da4bfd5f-31fc-49f9-94e1-26761957117d</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>Hello_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Hello_Right.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>HowAreYou.vgbproj</File>
+					</Items>
+					<Items>
+						<File>HowAreYou.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>
